@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  showimageweb:
+    # 告诉 Docker 就在当前目录(.)寻找 Dockerfile 构建
+    build: .
+    # 容器名字，方便查看
+    container_name: showimageweb-container
+    ports:
+      - "8501:8501" 
+    # 如果容器崩溃或电脑重启，自动重启这个容器
+    restart: always
+    # 可选：配置环境变量（虽然目前代码里没用，以后可以用来存 API Key）
+    environment:
+      - TZ=Asia/Shanghai

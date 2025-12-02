@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1764591139",
+    "prompt": "小兔",
+    "image_path": "saved_gallery/images/1764591139.png",
+    "hash": "c20f3ba00ac5b569d6a0c50f4635738b",
+    "seed": 591129981,
+    "time": "20:12:19",
+    "duration": "9.33s",
+    "saved_at": 1764591145.8188658
+  },
+  {
+    "id": "1764590687",
+    "prompt": "小狗",
+    "image_path": "saved_gallery/images/1764590687.png",
+    "hash": "cb356e2f74068fd1efc58d8e5dcd6e2e",
+    "seed": 590669367,
+    "time": "2025-12-01 20:04:47",
+    "duration": "10.40s",
+    "saved_at": 1764590687.5873625
+  },
+  {
+    "id": "1764590630",
+    "prompt": "大象",
+    "image_path": "saved_gallery/images/1764590630.png",
+    "hash": "18fcf33f89f61bd430f5a8404abf08d0",
+    "seed": 590612877,
+    "time": "2025-12-01 20:03:50",
+    "duration": "9.98s",
+    "saved_at": 1764590630.467788
+  }
+]
