@@ -15,8 +15,16 @@
 
 AI图像生成网页交互平台 - 基于Streamlit构建的Web应用，提供简洁的用户界面和实用的图像生成功能 - **对手机UI界面进行了优化**
 
+
+
+## 感谢
+- [Z-lmage-Tubro生图API](https://linux.do/t/topic/1238502)
+- [【NSFW】一个可部署的Web应用，调用公益Z-Image API生成美图（涩bushi)](https://linux.do/t/topic/1239258)
 ## 更新说明
 
+### 部署
+- 采用**railway**部署
+-【preview】https://z-imagesweb-production.up.railway.app/
 ### 最新优化
 - **反爬虫增强**: 集成CloudScraper技术，解决cf防护机制的403报错
 - **预设公用API Key**: 提供默认密钥，开箱即用无需填写key（可能被蹬完）
